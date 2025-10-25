@@ -2,8 +2,7 @@
 
 A full-stack e-commerce platform with **Telegram Bot integration** for seamless product management, user authentication, and real-time notifications. Manage your entire shop directly through Telegram!
 
-TypeScript
-React
+[![TypeScript](https://img.shields.ps://img.://img.shields.io/badge/Node.js
 
 ***
 
@@ -71,19 +70,18 @@ React
    MAIN_ADMIN_CHAT_ID=your_telegram_chat_id_here
    ```
 
-4. **Initialize the database**
+4. **Start both frontend and backend**
    ```bash
-   npm run db:init
+   npm run dev:all
    ```
 
-5. **Start the development server**
+   Or start them separately:
    ```bash
+   # Terminal 1 - Start backend & bot
+   npm run server
+   
+   # Terminal 2 - Start frontend
    npm run dev
-   ```
-
-6. **Start the Telegram bot**
-   ```bash
-   npm run bot
    ```
 
 The app will be available at `http://localhost:5173`
@@ -195,30 +193,13 @@ Telegram-Based-Shopping/
 
 ***
 
-## 📸 Screenshots
-
-*Coming soon...*
-
-***
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-***
-
 ## 👤 Author
 
 **Mohammad Reza Kazemi**
 
 - GitHub: [@cleverboy01](https://github.com/cleverboy01)
 - Portfolio: [my-portfolio-8y5.pages.dev](https://my-portfolio-8y5.pages.dev/)
+- Email: mkazemi.contact@gmail.com
 
 ***
 
@@ -234,11 +215,10 @@ Contributions are welcome! Please follow these steps:
 ## 📞 Support
 
 If you have any questions or need help, feel free to:
-- Open an issue
+- Open an issue on GitHub
 - Contact via Telegram Bot
-- Email: [mkazemi.contact@gmail.com]
+- Email: mkazemi.contact@gmail.com
 
 ***
 
-⭐ If you find this project useful, please consider giving it a star!
-
+⭐ **If you find this project useful, please consider giving it a star!**
