@@ -2,8 +2,8 @@
 
 A full-stack e-commerce platform with **Telegram Bot integration** for seamless product management, user authentication, and real-time notifications. Manage your entire shop directly through Telegram!
 
-[![TypeScript](https://img.shields.![JavaScript](https://img.shields.io
-[![React](https://img.shieldstps://img.shields.
+TypeScript
+React
 
 ***
 
@@ -241,3 +241,4 @@ If you have any questions or need help, feel free to:
 ***
 
 ⭐ If you find this project useful, please consider giving it a star!
+
